@@ -1,0 +1,42 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "Tu",
+    "an_aparitie": 1999,
+    "pret_bilet": 25,
+    "in_program": "nu"
+  },
+  "2": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "2",
+    "titlu": "Eu",
+    "an_aparitie": 2000,
+    "pret_bilet": 25,
+    "in_program": "da"
+  },
+  "3": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "3",
+    "titlu": "Tu1",
+    "an_aparitie": 1999,
+    "pret_bilet": 30,
+    "in_program": "da"
+  },
+  "4": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "4",
+    "titlu": "Tu2",
+    "an_aparitie": 2005,
+    "pret_bilet": 25,
+    "in_program": "da"
+  },
+  "5": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "5",
+    "titlu": "Eu",
+    "an_aparitie": 2021,
+    "pret_bilet": 35,
+    "in_program": "da"
+  }
+}

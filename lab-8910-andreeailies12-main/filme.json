@@ -1,0 +1,42 @@
+{
+  "1": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "1",
+    "titlu": "tu",
+    "an_aparitie": "1900",
+    "pret_bilet": 20,
+    "in_program": "nu"
+  },
+  "620": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "620",
+    "titlu": "LOL",
+    "an_aparitie": 1989,
+    "pret_bilet": 35,
+    "in_program": "nu"
+  },
+  "431": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "431",
+    "titlu": "Cenusareasa",
+    "an_aparitie": 1937,
+    "pret_bilet": 28,
+    "in_program": "nu"
+  },
+  "474": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "474",
+    "titlu": "LOL",
+    "an_aparitie": 1862,
+    "pret_bilet": 56,
+    "in_program": "nu"
+  },
+  "111": {
+    "py/object": "Domain.film.Film",
+    "id_entitate": "111",
+    "titlu": "vc",
+    "an_aparitie": 1215,
+    "pret_bilet": 12.0,
+    "in_program": "da"
+  }
+}

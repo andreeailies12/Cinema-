@@ -1,0 +1,12 @@
+{
+  "1": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "1",
+    "nume": "Tatar",
+    "prenume": "Cosmin",
+    "CNP": "1234567891234",
+    "data_nasterii": "12.02.2002",
+    "data_inregistrarii": "15.06.2009",
+    "puncte_acumulate": 25
+  }
+}

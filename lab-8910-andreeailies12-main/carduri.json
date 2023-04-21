@@ -1,0 +1,102 @@
+{
+  "3": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "3",
+    "nume": "cfc",
+    "prenume": "ds",
+    "CNP": "1234567891234",
+    "data_nasterii": "12.02.2000",
+    "data_inregistrarii": "12.03.2021",
+    "puncte_acumulate": 1154.0
+  },
+  "9548": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "9548",
+    "nume": "Rotaru",
+    "prenume": "Aren",
+    "CNP": "8256876773298",
+    "data_nasterii": "18.09.2001",
+    "data_inregistrarii": "11.12.2001",
+    "puncte_acumulate": 2052
+  },
+  "9862": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "9862",
+    "nume": "Veres",
+    "prenume": "Dan",
+    "CNP": "3760371609381",
+    "data_nasterii": "18.09.2001",
+    "data_inregistrarii": "18.09.1973",
+    "puncte_acumulate": 2043
+  },
+  "3097": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "3097",
+    "nume": "Szabo",
+    "prenume": "Monica",
+    "CNP": "3261720364356",
+    "data_nasterii": "12.01.2002",
+    "data_inregistrarii": "26.11.2015",
+    "puncte_acumulate": 1039
+  },
+  "501": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "501",
+    "nume": "vdfvc",
+    "prenume": "cdfxv",
+    "CNP": "1234567891597",
+    "data_nasterii": "12.02.2021",
+    "data_inregistrarii": "12.12.2021",
+    "puncte_acumulate": 16.0
+  },
+  "97": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "97",
+    "nume": "cfd",
+    "prenume": "cdf",
+    "CNP": "1234567893566",
+    "data_nasterii": "12.02.2021",
+    "data_inregistrarii": "15.02.2021",
+    "puncte_acumulate": 15.0
+  },
+  "4": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "4",
+    "nume": "cdsv",
+    "prenume": "sdcfc",
+    "CNP": "1234567899631",
+    "data_nasterii": "12.02.2021",
+    "data_inregistrarii": "12.06.2021",
+    "puncte_acumulate": 15.0
+  },
+  "3815": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "3815",
+    "nume": "Veres",
+    "prenume": "Vlad",
+    "CNP": 6542275437430,
+    "data_nasterii": "19.03.2000",
+    "data_inregistrarii": "12.08.1998",
+    "puncte_acumulate": 78
+  },
+  "994": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "994",
+    "nume": "Ilies",
+    "prenume": "Andreea",
+    "CNP": 3282522213013,
+    "data_nasterii": "18.09.2001",
+    "data_inregistrarii": "12.08.1998",
+    "puncte_acumulate": 36
+  },
+  "7054": {
+    "py/object": "Domain.cardClient.CardClient",
+    "id_entitate": "7054",
+    "nume": "Valean",
+    "prenume": "Monica",
+    "CNP": 8294235390630,
+    "data_nasterii": "19.03.2000",
+    "data_inregistrarii": "11.12.2001",
+    "puncte_acumulate": 69
+  }
+}
